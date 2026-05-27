@@ -75,5 +75,5 @@ My [Portfolio](https://leo-portfolio-puce.vercel.app/)
 ---
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-boma-631aa9234/?originalSubdomain=ke)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-boma-631aa9234/)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tweenhaven35)
